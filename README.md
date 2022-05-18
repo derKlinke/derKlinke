@@ -3,3 +3,6 @@
 
 - 👨🏻‍💻 My Website: [fabiansklinke.info](https://fabiansklinke.info)
 - 🎙 Current Software Project: [Lippo](https://klinkeaudio.com)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
