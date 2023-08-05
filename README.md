@@ -1,4 +1,14 @@
 <h1 align="center">Hi 👋, I'm Fabian S. Klinke</h1>
 <h3 align="center">Audio Design Student and Software Developer</h3>
 
-- 🎙 Check out Klinke Audio where I am developing some audio tools, including Lippo: [klinkeaudio.com](https://klinkeaudio.com)
+## ⚙️ What I am Working on
+- 🎙 Check out Klinke Audio where I am developing some audio tools, including Lippo and Poseio: [klinkeaudio.com](https://klinkeaudio.com)
+- 🕸️ Or check out my [personal website](https://fabiansklinke.info) where I talk a little about all the other things I'm currently doing, including engineering podcasts and music.
+- 🤐 and some other (still) secret projects involving a lot of motion tracking technology
+
+## 🎓 What I'm interested in learning
+- 🔊 getting a deeper and better understanding on audio DSP
+- ♾️ refreshing and extending my mathematics
+- 🤖 and of course getting a better grasp on machine learning (what else... i know)
+
+If you have anything interesting for me to look at or talk about, feel free to [reach out](mailto:github@fabiansklinke.info) at any time! 
