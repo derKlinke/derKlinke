@@ -2,8 +2,7 @@
 <h3 align="center">Audio Design Student and Software Developer</h3>
 
 ## ⚙️ What I am Working on
-- 🎙 Check out Klinke Audio where I am developing some audio tools, including Lippo and Poseio: [klinkeaudio.com](https://klinkeaudio.com)
-- 🕸️ Or check out my [personal website](https://fabiansklinke.info) where I talk a little about all the other things I'm currently doing, including engineering podcasts and music.
+- 🕸️ Check out my [personal website](https://fabiansklinke.info) where I talk a little about all the other things I'm currently doing, including engineering podcasts and music.
 - 🏥 a cross-platform motion tracking platform enabeling people with motory disabilities to use their computer again, funded by [PrototypeFund](https://prototypefund.de/project/ctrlability-kontroller-fuer-menschen-mit-motorischen-einschraenkungen/).
 - 🤐 and some other (still) secret projects involving a lot of motion tracking technology
 
